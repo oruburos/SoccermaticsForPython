@@ -1,4 +1,4 @@
-#Load in Statsbomb competition and match data
+ #Load in Statsbomb competition and match data
 #This is a library for loading json files.
 import json
 
